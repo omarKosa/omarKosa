@@ -2,7 +2,14 @@
 #### I am a Software Developer
 i passionate about several software topics like mobile apps, backend, frontend, game development, and a lot more!
 
-Skills: C,C++ / C# / Python /Android Development(java and kotlin) / Unity 3D / ASP.NET / JS / HTML / CSS
+##Skills: 
+-C,C++
+-C#
+-Python
+-Android Development(java and kotlin)
+-Unity 3D
+-ASP.NET
+-JS / HTML / CSS
 
 - 🔭 I’m currently working on automating robotic arm programs 
 - 🌱 I’m currently learning ROS and robotic arms 
