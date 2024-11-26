@@ -1,8 +1,8 @@
-## Hi there 👋, my name is Omar
-### I am a Software Developer
-## i passionate about several software topics like mobile apps, backend, frontend, game development, and a lot more!
+### Hi there 👋, my name is Omar
+## I am a Software Developer
+### i passionate about several software topics like mobile apps, backend, frontend, game development, and a lot more!
 
-### Skills:
+### My skills:
 #### C,C++
 #### Python
 #### Android Development(java and kotlin)
