@@ -4,12 +4,17 @@ i passionate about several software topics like mobile apps, backend, frontend, 
 
 ##Skills:
 #C,C++
-#C#
+
 #Python
+
 #Android Development(java and kotlin)
+
 #Unity 3D
-#ASP.NET
+
+#ASP.NET /C#
+
 #JS / HTML / CSS
+
 
 - 🔭 I’m currently working on automating robotic arm programs 
 - 🌱 I’m currently learning ROS and robotic arms 
