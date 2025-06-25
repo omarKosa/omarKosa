@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Omar
 ## I am a Software Developer
-### i passionate about several software topics like mobile apps, backend, frontend, game development, and a lot more!
+### i passionate about several software topics like fullstack web development, machine learning, game development, and a lot more!
 
 ### My skills:
 #### C,C++
@@ -8,7 +8,7 @@
 #### Android Development(java and kotlin)
 #### Unity 3D
 #### ASP.NET /C#
-#### JS / HTML / CSS
+#### Next.js
 
 
 - 🔭 I’m currently working on automating robotic arm programs 
