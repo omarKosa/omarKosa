@@ -1,18 +1,19 @@
 ### Hi there 👋, my name is Omar
 ## I am a Software Developer
-### i passionate about several software topics like fullstack web development, machine learning, game development, and a lot more!
-
+### I focus on backend engineering and AI/LLM development. I have experience
+### in building micro-services using RabbitMQ and Docker, developed AI-powered
+### applications with OpenAI API, and i trained an Arabic language model from scratch using
+### PyTorch.
 ### My skills:
-#### C,C++
 #### Python
-#### Android Development(java and kotlin)
-#### Unity 3D
+#### NLP
+#### AI agentic engineering
 #### ASP.NET /C#
-#### Next.js
+#### Next.js framework
 
 
-- 🔭 I’m currently working on automating robotic arm programs 
-- 🌱 I’m currently learning ROS and robotic arms 
+- 🌱 I’m currently working on RideGaurd app
+- 🔭 I’m currently learning golang
 - 📫 How to reach me: omar.a.k2004ks@gmail.com 
 
 
